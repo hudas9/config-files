@@ -1,0 +1,29 @@
+{
+  "breadcrumbs.enabled": false,
+  "codesnap.containerPadding": "0",
+  "codesnap.showWindowControls": false,
+  "codesnap.showWindowTitle": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "Hack Nerd Font, JetBrainsMono Nerd Font, Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 17,
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "editor.inlineSuggest.enabled": true,
+  "prettier.singleQuote": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.statusBar.visible": false,
+  "workbench.colorTheme": "Gruvbox Dark (Medium)",
+  "material-icon-theme.folders.color": "#ff7043",
+  "workbench.iconTheme": "material-icon-theme",
+  "window.menuBarVisibility": "compact",
+  "workbench.layoutControl.enabled": false,
+  "window.commandCenter": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.editor.enablePreview": false,
+  "workbench.startupEditor": "none",
+  "editor.formatOnSave": true,
+  "update.showReleaseNotes": false
+}
