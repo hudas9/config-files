@@ -10,20 +10,24 @@
   "editor.minimap.enabled": false,
   "editor.tabSize": 2,
   "editor.inlineSuggest.enabled": true,
-  "prettier.singleQuote": true,
+  "prettier.singleQuote": false,
   "security.workspace.trust.untrustedFiles": "open",
   "workbench.statusBar.visible": false,
-  "workbench.colorTheme": "Gruvbox Dark (Medium)",
-  "material-icon-theme.folders.color": "#ff7043",
+  "workbench.colorTheme": "Better Solarized Dark",
+  "material-icon-theme.folders.color": "#9eacad",
   "workbench.iconTheme": "material-icon-theme",
-  "window.menuBarVisibility": "compact",
-  "workbench.layoutControl.enabled": false,
   "window.commandCenter": false,
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreview": true,
   "workbench.startupEditor": "none",
   "editor.formatOnSave": true,
-  "update.showReleaseNotes": false
+  "update.showReleaseNotes": false,
+  "workbench.colorCustomizations": {
+    "editorLineNumber.activeForeground": "#fdf6e3"
+  },
+  "workbench.sideBar.location": "right",
+  "window.menuBarVisibility": "hidden",
+  "workbench.layoutControl.enabled": false,
+  "editor.renderWhitespace": "all",
+  "editor.colorDecorators": false,
+  "editor.wordWrap": "on"
 }
