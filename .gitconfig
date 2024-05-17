@@ -1,0 +1,9 @@
+[user]
+	email = ahmadhudasalam9@gmail.com
+	name = Ahmad Huda Salam
+[core]
+	editor = code --wait
+[diff]
+	tool = default-difftool
+[difftool "default-difftool"]
+	cmd = code --wait --diff $LOCAL $REMOTE
